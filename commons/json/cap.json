@@ -1,6 +1,6 @@
 [
   {
-    "_id": "56d6f3da2901e6cf052b322f",
+    "id": "1",
     "assigned": false,
     "createdDate": "1466038761645",
     "ocurrenceDate": "1466038761645",
@@ -9,7 +9,7 @@
     "visualized": true
   },
   {
-    "_id": "56d6f4072901e6cf052b3230",
+    "id": "2",
     "assigned": false,
     "createdDate": "1466038761645",
     "ocurrenceDate": "1466038761645",
@@ -18,7 +18,7 @@
     "visualized": false
   },
   {
-    "_id": "56d6f40e2901e6cf052b3231",
+    "id": "3",
     "assigned": false,
     "createdDate": "1466038761645",
     "ocurrenceDate": "1466038761645",
@@ -27,7 +27,7 @@
     "visualized": false
   },
   {
-    "_id": "56d6f4142901e6cf052b3232",
+    "id": "4",
     "assigned": false,
     "createdDate": "1466038761645",
     "ocurrenceDate": "1466038761645",
@@ -36,7 +36,7 @@
     "visualized": false
   },
   {
-    "_id": "56d6f4252901e6cf052b3233",
+    "id": "5",
     "assigned": false,
     "createdDate": "1466038761645",
     "ocurrenceDate": "1466038761645",
@@ -45,7 +45,7 @@
     "visualized": false
   },
   {
-    "_id": "56d6f4302901e6cf052b3234",
+    "id": "6",
     "assigned": false,
     "createdDate": "1466038761645",
     "ocurrenceDate": "1466038761645",
@@ -54,7 +54,7 @@
     "visualized": true
   },
   {
-    "_id": "56d6f4422901e6cf052b3235",
+    "id": "7",
     "assigned": false,
     "createdDate": "1466038761645",
     "ocurrenceDate": "1466038761645",
@@ -63,7 +63,7 @@
     "visualized": true
   },
   {
-    "_id": "56d6f44e2901e6cf052b3236",
+    "id": "8",
     "assigned": false,
     "createdDate": "1466038761645",
     "ocurrenceDate": "1466038761645",
@@ -72,7 +72,7 @@
     "visualized": false
   },
   {
-    "_id": "56d6f4572901e6cf052b3237",
+    "id": "9",
     "assigned": false,
     "createdDate": "1466038761645",
     "ocurrenceDate": "1466038761645",
@@ -81,7 +81,7 @@
     "visualized": true
   },
   {
-    "_id": "56d6f4602901e6cf052b3238",
+    "id": "10",
     "assigned": false,
     "createdDate": "1466038761645",
     "ocurrenceDate": "1466038761645",
@@ -90,7 +90,7 @@
     "visualized": true
   },
   {
-    "_id": "56d6f4892901e6cf052b3239",
+    "id": "11",
     "assigned": false,
     "createdDate": "1466038761645",
     "ocurrenceDate": "1466038761645",
@@ -99,7 +99,7 @@
     "visualized": false
   },
   {
-    "_id": "56d6f4902901e6cf052b323a",
+    "id": "12",
     "assigned": false,
     "createdDate": "1466038761645",
     "ocurrenceDate": "1466038761645",
@@ -108,7 +108,7 @@
     "visualized": false
   },
   {
-    "_id": "56d6f4942901e6cf052b323b",
+    "id": "13",
     "assigned": false,
     "createdDate": "1466038761645",
     "ocurrenceDate": "1466038761645",
@@ -117,7 +117,7 @@
     "visualized": false
   },
   {
-    "_id": "56d6f49c2901e6cf052b323c",
+    "id": "14",
     "assigned": false,
     "createdDate": "1466038761645",
     "ocurrenceDate": "1466038761645",
@@ -126,7 +126,952 @@
     "visualized": false
   },
   {
-    "_id": "56d6f4a32901e6cf052b323d",
+    "id": "15",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "McGree",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "1",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "bla",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "2",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "car",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "3",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "hotdog",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "4",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "overwatch",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "5",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "warcraft",
+    "system": "BLA",
+    "visualized": false
+  },
+  {
+    "id": "6",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "a very serious description",
+    "system": "BLA",
+    "visualized": true
+  },
+  {
+    "id": "7",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "heroes of the storm",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "8",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "dar souls",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "9",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "stardew valley",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "10",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "darkest dungeon",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "11",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "D.Va",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "12",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Mercy",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "13",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Mei",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "14",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Tracer",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "15",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "McGree",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "1",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "bla",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "2",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "car",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "3",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "hotdog",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "4",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "overwatch",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "5",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "warcraft",
+    "system": "BLA",
+    "visualized": false
+  },
+  {
+    "id": "6",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "a very serious description",
+    "system": "BLA",
+    "visualized": true
+  },
+  {
+    "id": "7",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "heroes of the storm",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "8",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "dar souls",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "9",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "stardew valley",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "10",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "darkest dungeon",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "11",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "D.Va",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "12",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Mercy",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "13",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Mei",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "14",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Tracer",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "15",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "McGree",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "1",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "bla",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "2",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "car",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "3",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "hotdog",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "4",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "overwatch",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "5",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "warcraft",
+    "system": "BLA",
+    "visualized": false
+  },
+  {
+    "id": "6",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "a very serious description",
+    "system": "BLA",
+    "visualized": true
+  },
+  {
+    "id": "7",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "heroes of the storm",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "8",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "dar souls",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "9",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "stardew valley",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "10",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "darkest dungeon",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "11",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "D.Va",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "12",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Mercy",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "13",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Mei",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "14",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Tracer",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "15",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "McGree",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "1",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "bla",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "2",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "car",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "3",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "hotdog",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "4",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "overwatch",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "5",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "warcraft",
+    "system": "BLA",
+    "visualized": false
+  },
+  {
+    "id": "6",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "a very serious description",
+    "system": "BLA",
+    "visualized": true
+  },
+  {
+    "id": "7",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "heroes of the storm",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "8",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "dar souls",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "9",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "stardew valley",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "10",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "darkest dungeon",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "11",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "D.Va",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "12",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Mercy",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "13",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Mei",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "14",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Tracer",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "15",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "McGree",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "1",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "bla",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "2",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "car",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "3",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "hotdog",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "4",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "overwatch",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "5",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "warcraft",
+    "system": "BLA",
+    "visualized": false
+  },
+  {
+    "id": "6",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "a very serious description",
+    "system": "BLA",
+    "visualized": true
+  },
+  {
+    "id": "7",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "heroes of the storm",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "8",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "dar souls",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "9",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "stardew valley",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "10",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "darkest dungeon",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "11",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "D.Va",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "12",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Mercy",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "13",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Mei",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "14",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Tracer",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "15",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "McGree",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "1",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "bla",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "2",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "car",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "3",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "hotdog",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "4",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "overwatch",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "5",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "warcraft",
+    "system": "BLA",
+    "visualized": false
+  },
+  {
+    "id": "6",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "a very serious description",
+    "system": "BLA",
+    "visualized": true
+  },
+  {
+    "id": "7",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "heroes of the storm",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "8",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "dar souls",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "9",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "stardew valley",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "10",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "darkest dungeon",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "11",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "D.Va",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "12",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Mercy",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "13",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Mei",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "14",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Tracer",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "15",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "McGree",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "1",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "bla",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "2",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "car",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "3",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "hotdog",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "4",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "overwatch",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "5",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "warcraft",
+    "system": "BLA",
+    "visualized": false
+  },
+  {
+    "id": "6",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "a very serious description",
+    "system": "BLA",
+    "visualized": true
+  },
+  {
+    "id": "7",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "heroes of the storm",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "8",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "dar souls",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "9",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "stardew valley",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "10",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "darkest dungeon",
+    "system": "SLF",
+    "visualized": true
+  },
+  {
+    "id": "11",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "D.Va",
+    "system": "SLF",
+    "visualized": false
+  },
+  {
+    "id": "12",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Mercy",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "13",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Mei",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "14",
+    "assigned": false,
+    "createdDate": "1466038761645",
+    "ocurrenceDate": "1466038761645",
+    "description": "Tracer",
+    "system": "OVW",
+    "visualized": false
+  },
+  {
+    "id": "15",
     "assigned": false,
     "createdDate": "1466038761645",
     "ocurrenceDate": "1466038761645",

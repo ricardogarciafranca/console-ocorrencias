@@ -8,29 +8,27 @@
 
             var ocurrencesFiltered = [];
 
-            var numPages = Math.round(ocurrences.length / limit);
+            var round = Math.round(ocurrences.length / limit);
 
-            var group = 0;
+            var numPages = (round == 0 ? 1 : round);
+
+            var inicio = (page == 1 ? 0 : (limit * page) - limit);
+
+            var fim = (limit * page);
+
+            var contador = 0;
 
             for (var x = 0; x < ocurrences.length; x++) {
                 if(ocurrences[x] != undefined){
 
-                    if(x == page){
+                   if(contador >= inicio && contador < fim){
+                       ocurrencesFiltered.push(ocurrences[x]);
+                   }
 
-                        if(group == page){
-
-                        }
-
-                        group = group + 1;
-                    }
-
-                    ocurrencesFiltered.push(ocurrences[x]);
-
-
+                    contador = contador + 1;
                 }
 
             }
-
 
             var result = {
                 "page": page,
@@ -49,7 +47,6 @@
 
         function getOcurrence(limit, page) {
 
-            alert("limit: " + limit + " - page: " + page);
             var defer = $q.defer();
 
             $http.get('commons/json/cap.json').then(function (data) {
