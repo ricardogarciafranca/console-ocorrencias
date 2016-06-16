@@ -2,6 +2,10 @@ table {
    border-collapse: collapse;
 }
 
+.padding_top_20{
+    padding-top: 20px;
+}
+
 .border_black{
     border: 1px solid black;
 }
