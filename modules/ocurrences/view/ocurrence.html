@@ -1,0 +1,88 @@
+<div>
+    <h1>Ocurrences</h1>
+
+
+    <div style="width:70%; margin-left: 15%;">
+
+        <table style="width: 100%;">
+
+            <tr class="text-center" style="height: 40px; background: lightgrey; border: 2px solid black;">
+                <td style="border: 2px solid black; font-weight: bold;"> Recebido em <a href="javascript:undefined"
+                                                                                        ng-click="filterByColumn('createdDate')"></a>
+                </td>
+                <td style="border: 2px solid black; font-weight: bold;"> Ocorrido em <a href="javascript:undefined"
+                                                                                        ng-click="filterByColumn('ocurrenceDate')"></a>
+                </td>
+                <td style="border: 2px solid black; font-weight: bold;"> Descrição<a href="javascript:undefined"
+                                                                                     ng-click="filterByColumn('description')"> </a>
+                </td>
+                <td style="border: 2px solid black; font-weight: bold;"> Sistema de origem <a
+                        href="javascript:undefined" ng-click="filterByColumn('system')"></a></td>
+                <td style="border: 2px solid black; font-weight: bold;">Visualizado</td>
+            </tr>
+
+            <tr ng-repeat="ocurrence in ocurrences">
+                <td>{{ocurrence.createdDate | date:'dd/MM/yyyy HH:mm'}}</td>
+                <td>{{ocurrence.ocurrenceDate | date:'dd/MM/yyyy HH:mm'}}</td>
+                <td>{{ocurrence.description}}</td>
+                <td>{{ocurrence.system}}</td>
+                <td class="text-center"><input type="checkbox" name="vehicle" ng-model="ocurrence.visualized"/></td>
+            </tr>
+        </table>
+
+
+        <br/>
+
+
+
+        <div style="float: right;">
+            <table>
+                <tr>
+                    <td style="padding-left: 5px; padding-right: 5px;">
+                        <strong>{{ocurrences.length}}</strong> Registros <strong> | </strong> Resultados por página
+                    </td>
+                    <td style="padding-left: 5px; padding-right: 5px;">
+                        <select ng-model="showItemsPage">
+                            <option value="5">5</option>
+                            <option value="7">7</option>
+                            <option value="10">10</option>
+                            <option value="20">20</option>
+                        </select>
+                    </td>
+
+                    <td>
+                        <div class="pages_buttons" > << </div>
+                        </td>
+                    <td>
+                        <div class="pages_buttons" > < </div>
+                    </td>
+
+
+                    <td ng-repeat="page in pages" style="padding-left: 5px; padding-right: 5px;">
+                        <div class="pages_buttons" >{{page}}</div>
+                    </td>
+
+
+                    <td>
+                        <div class="pages_buttons" > > </div>
+                        </td>
+                    <td>
+                        <div class="pages_buttons" > >> </div>
+                    </td>
+                </tr>
+
+
+            </table>
+
+
+        </div>
+
+        <div style="float: right; padding-top: 3px; padding-right: 50px;">
+            <button>Imprimir</button>
+            <button>Exportar Xls</button>
+        </div>
+
+    </div>
+
+
+</div>

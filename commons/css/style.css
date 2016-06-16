@@ -1,0 +1,31 @@
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.pages_buttons{
+    border: 1px solid gray; padding-bottom: 1px;  padding-top: 1px; padding-left: 5px; padding-right: 5px;
+    font-weight: bold;
+    color: black;
+}
+
+.pages_buttons:hover {
+    background-color: lightskyblue;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.pages_buttons:active {
+    background-color: lightcoral;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
